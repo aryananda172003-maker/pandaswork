@@ -65,4 +65,3 @@ print(df.loc[1,["product","price"]])
 #isnull().sum()=null count
 #group by()=return count of unique values
 #sort values()
-
